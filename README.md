@@ -2,7 +2,7 @@
 
 In this work, we propose a method of gait recognition using a conditional generative model to generate view-invariant features and overcome appearance variations due to changes of clothing, carrying conditions, and view angle. 
 
-
+[Example](https://gitlab.com/IsRaTiAl/gait/blob/master/Images/Subject120OriginalGEI.png)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Keras
 ## Built With
 
 * [CASIA](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp) - The dataset used
-* [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Code based on
+* [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Based on
 * GoogleColab - The virtual machine used in the experiments 
 
 ## Acknowledgments
