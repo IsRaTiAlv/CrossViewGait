@@ -58,14 +58,15 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [CASIA](http://www.dropwizard.io/1.0.2/docs/) - The dataset used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [CASIA](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp) - The dataset used
+* [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Code based on
+* [GoogleColab] - The virtual machine used in the experiments 
 
 
 ## Authors
 
-* **Israel Tiñini Alvarez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Israel Tiñini Alvarez** - Author - [E-mail](ir.tinini@acad.ucb.edu.bo)
+* **Guillermo Sahonero-Alvarez** - Author - [E-mail](g.sahonero@acad.ucb.edu.bo)
 
 
 ## Acknowledgments
