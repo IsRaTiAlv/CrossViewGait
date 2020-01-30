@@ -13,6 +13,7 @@ What things you need to install the software and how to install them
 ```
 OpenCV
 Tensorflow 2.x
+Keras
 ```
 
 ## Deployment
@@ -25,9 +26,8 @@ Add additional notes about how to deploy this on a live system
 * [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Code based on
 * GoogleColab - The virtual machine used in the experiments 
 
-
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+This work has been inspired on: 
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
+* [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
