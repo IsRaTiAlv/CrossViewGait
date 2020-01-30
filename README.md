@@ -2,7 +2,7 @@
 
 In this work, we propose a method of gait recognition using a conditional generative model to generate view-invariant features and overcome appearance variations due to changes of clothing, carrying conditions, and view angle. 
 
-![Alt text](https://gitlab.com/IsRaTiAl/gait/blob/master/Images/Subject120OriginalGEI.png?raw=true "Title")
+![Alt text](https://gitlab.com/IsRaTiAl/gait/blob/a6e6ebff4ec9f6e10dc8f7fde63d5e1f7438b40e/Images/Subject120OriginalGEI.png?raw=true "Title")
 
 ## Getting Started
 
