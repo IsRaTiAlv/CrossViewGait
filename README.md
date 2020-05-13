@@ -27,8 +27,8 @@ Generated GEI representations for the same subject
 
 ## Getting Started
 
-You can find the notebook [here](https://gitlab.com/IsRaTiAl/gait/blob/master/Gait_U-Net_.ipynb) or open it at 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXSScKJ5uOJLZ-9aseO3vXLYen_DLJ9p#scrollTo=E-fqvapSsdie&forceEdit=true&sandboxMode=true)
+You can find the notebook [here](https://gitlab.com/IsRaTiAl/gait/blob/master/Gait_U-Net2.ipynb) or open it at 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXSScKJ5uOJLZ-9aseO3vXLYen_DLJ9p#forceEdit=true&sandboxMode=true)
 
 ### Prerequisites
 
