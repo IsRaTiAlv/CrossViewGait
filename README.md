@@ -5,10 +5,10 @@ Inspired by the great successes of GANs in image translation tasks, we propose a
 In this work, we propose a method of gait recognition using a conditional generative model to generate view-invariant features and overcome appearance variations due to changes of clothing, carrying conditions, and view angle. 
 
 ## Our Conditional GAN
-Generator
+Generator:
 <center><img src='https://gitlab.com/IsRaTiAl/gait/raw/master/Images/U-Gait2.svg'/></center>
 
-Discriminator
+Discriminator:
 <center><img src='https://gitlab.com/IsRaTiAl/gait/raw/master/Images/Discriminator3.svg'/></center>
 
 
@@ -44,6 +44,13 @@ Keras
 * [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix) - Based on
 * GoogleColab - The virtual machine used in the experiments 
 
+## Citing
+
+Please, cite this work as follows:
+
+Tiñini Alvarez, Israel Raul and Sahonero-Alvarez, Guillermo, "Cross-View Gait Recognition Based on U-Net". 2020
+
+
 ## Acknowledgments
 
 This work has been inspired on: 
@@ -51,5 +58,5 @@ This work has been inspired on:
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 ## Authors
-* [Israel Tiñini Alvarez](ir.tinini@acad.ucb.edu.bo)
-* [Guillermo Sahonero-Alvarez](g.sahonero@acad.ucb.edu.bo)
+* [Israel Tiñini Alvarez](mailto: ir.tinini@acad.ucb.edu.bo)
+* [Guillermo Sahonero-Alvarez](https://www.imt.ucb.edu.bo/cidimec/people/sahonero/)
