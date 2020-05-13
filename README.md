@@ -58,5 +58,5 @@ This work has been inspired on:
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 ## Authors
-* [Israel Tiñini Alvarez](mailto: ir.tinini@acad.ucb.edu.bo)
+* [Israel Tiñini Alvarez](mailto:ir.tinini@acad.ucb.edu.bo)
 * [Guillermo Sahonero-Alvarez](https://www.imt.ucb.edu.bo/cidimec/people/sahonero/)
