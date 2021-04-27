@@ -1,5 +1,5 @@
 <h1 align="center">  Cross-View Gait Recognition Based on U-Net  </h1>
-<p align='right'><i>  Updated: Dec 7th, 2020 </i></p> <div align="center">
+<p align='right'><i>  Updated: April 27th, 2021 </i></p> <div align="center">
   <a href="#Description"><b>Description</b></a> |
   <a href="#Our approach"><b>Our approach</b></a> |
   <a href="#Results"><b>Results</b></a> |
@@ -7,10 +7,12 @@
   <a href="#Citing"><b>Citing</b></a>
 </div>
 
-
-<img align="center" src=".readme/GEn_001.gif"/>
-<p align="center" ><i>Example of invariant Gait Energy Image (GEI) generation.</i></p>
-
+<p align="center">
+  <img src=".readme/GEn_001.gif">
+</p>
+<p align="center" >
+ <i>Example of invariant Gait Energy Image (GEI) generation.</i>
+</p>
 # Description
 Inspired by the great successes of GANs in image translation tasks, we propose a new gait recognition technique by using a conditional generative model to generate view-invariant features. The proposed method is evaluated on one of the largest datasets available under the variations of view, clothing and carrying conditions: CASIA gait database B. Experimental results show that the proposed method achieves an outstanding correct classification rate and outperformed state-of-the-art methods specially in carrying-bag and wearing-coat sequences.
 
@@ -18,14 +20,16 @@ In this work, we propose a method of gait recognition using a conditional genera
 
 # Our approach
 ## Framework
-<img align="center" src=".readme/Framework.svg"/>
+<p align="center">
+  <img align="center" src=".readme/Framework.svg"/>
+</p>
 <p align="center" ><i>Example of invariant Gait Energy Image (GEI) generation.</i></p>
 
 ## Conditional GAN (CGAN)
 
 |  Generator |  Discriminator
 |---|---|
-|<center><img src=.readme/U-Gait2.svg alt="drawing" width="300"/>|<figure><center><img src=.readme/Discriminator3.svg alt="drawing" width="500"/></center></figure>|
+|<img src=.readme/U-Gait2.svg alt="drawing" width="500"/> <!-- .element: style="text-align:center;" -->|<img src=.readme/Discriminator2.svg alt="drawing" width="600"/> <!-- .element: style="text-align:center;" -->|
 
 
 # Results
@@ -38,7 +42,7 @@ Next, some qualitative results are shown:
 <img align="center" src=".readme/Subject120GeneratedGEI.png"/>
 <p align="center" ><i>Generated GEI representations for the same subject</i></p>
 
-<img align="center" src=".readme/Gen_mul.gif"/>
+<p align="center"><img align="center" src=".readme/Gen_mul.gif"/></p>
 <p align="center" ><i>Generated GEI representations from multiple subjects on each training step</i></p>
 
 However, it is necessary to compare our results with other state-of-the-art works.
